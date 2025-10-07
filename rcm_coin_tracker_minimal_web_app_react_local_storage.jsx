@@ -47,7 +47,7 @@ import react from '@vitejs/plugin-react'
 // IMPORTANT: set base to "/<YOUR_REPO_NAME>/" for GitHub Pages
 export default defineConfig({
   plugins: [react()],
-  base: '/YOUR_REPO_NAME/'
+  base: '/rcm-coin-tracker/'
 })
 ```
 
